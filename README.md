@@ -6,6 +6,17 @@ An end-to-end analytics and decision science project evaluating tourism competit
 
 The project progresses through diagnostic, predictive and prescriptive analytics and combines Excel, Tableau, forecasting and optimization.
 
+## Project Team
+
+This project was completed collaboratively by:
+
+• Anagha Arun Bande  
+• Alain Iyondeba  
+• Po Hsun Chuang  
+• Sachi Vijay Agarwal  
+
+The analyses, models, recommendations, presentations and supporting deliverables in this repository represent collaborative team work completed as part of TGM 530: Big Data in the Global Economy at Thunderbird School of Global Management.
+
 ## Business Problem
 
 How should Chile prioritize tourism development across its regions while balancing visitor demand, infrastructure readiness, digital capability, sustainability, regional equity and capacity constraints?
@@ -107,9 +118,16 @@ The optimization analysis further demonstrates that physical capacity can become
 • Executive Communication  
 • Data-Driven Decision Making  
 
-## Author
+## Portfolio Owner
 
-**Anagha Bande**  
+**Anagha Arun Bande**  
 Master of Global Management  
 Thunderbird School of Global Management  
 Arizona State University
+
+### Project Contributors
+
+**Anagha Arun Bande**  
+**Alain Iyondeba**  
+**Po Hsun Chuang**  
+**Sachi Vijay Agarwal**
